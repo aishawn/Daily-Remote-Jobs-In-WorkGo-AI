@@ -8,7 +8,7 @@
 </p>
 </div>
 
-This job repository provides daily updates of the latest tech jobs from 2025-07-04 to 2025-07-11. We focus on various job categories including **Software Engineering, Data Science, Product Management, Marketing, Design, Sales, and Customer Service.**
+This job repository provides daily updates of the latest tech jobs from 2025-07-05 to 2025-07-12. We focus on various job categories including **Software Engineering, Data Science, Product Management, Marketing, Design, Sales, and Customer Service.**
 
 ✨ For a complete list of jobs and personalized recommendations, visit [WorkGo.AI](https://workgo.ai).
 
@@ -33,14 +33,40 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 
 ---
 
-## Latest Job Updates (2025-07-04 to 2025-07-11) 🌟
+## Latest Job Updates (2025-07-05 to 2025-07-12) 🌟
 
 
 <details>
-<summary>software (213 positions)</summary>
+<summary>software (224 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="https://mozilla.org" target="_blank">Mozilla</a> | Staff Software Engineer, Desktop Integration | United Kingdom | fullstack | <a href="https://workgo.ai/dashboard/job/6236" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/headway" target="_blank">Headway</a> | Senior Security Engineer | Remote - United States | devops | <a href="https://workgo.ai/dashboard/job/6231" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://improvado.io" target="_blank">Improvado</a> | Full Stack Engineer | Colombia, Brazil | fullstack | <a href="https://workgo.ai/dashboard/job/6227" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/headway" target="_blank">Headway</a> | Staff Software Engineer | United States | fullstack | <a href="https://workgo.ai/dashboard/job/6228" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="www.wearespreetail.com/" target="_blank">Spreetail</a> | Python Developer III | Remote - India | backend | <a href="https://workgo.ai/dashboard/job/6220" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/the-job-sauce" target="_blank">The Job Sauce</a> | Senior Software Engineer | Worldwide | fullstack | <a href="https://workgo.ai/dashboard/job/6216" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.realworkfromanywhere.com/company/speechify" target="_blank">Speechify</a> | Software Engineer, AI Studio | Worldwide | fullstack | <a href="https://workgo.ai/dashboard/job/6214" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.realworkfromanywhere.com/company/aztec" target="_blank">Aztec</a> | Software Engineer (Generalist) | Worldwide | fullstack | <a href="https://workgo.ai/dashboard/job/6212" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.realworkfromanywhere.com/company/coalesce" target="_blank">Coalesce</a> | Senior DevOps Engineer - Security | Worldwide | devops | <a href="https://workgo.ai/dashboard/job/6211" target="_blank">Apply</a> | 2025-07-12 |
+| Cube Care Co. | IT Web Developer (Focus on Modern Web & Digital Tools) REMOTE | Philippines, Philippines, Philippines | fullstack | <a href="https://workgo.ai/dashboard/job/6200" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://callguardian.ai" target="_blank">Call Guardian</a> | Code with Vibes: React Dev (PH Remote) | Brisbane, QLD, Australia | frontend | <a href="https://workgo.ai/dashboard/job/6198" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.guru.com" target="_blank">Amitesh S</a> | MS SQL DB Developer | United States | backend | <a href="https://workgo.ai/dashboard/job/6195" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.guru.com" target="_blank">Evan J</a> | Cyberhacker removal - apple IOS devices | Australia | mobile | <a href="https://workgo.ai/dashboard/job/6194" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://gtecombv.com" target="_blank">GT Ecom</a> | Shopify Front-End Developer | Open to candidates from all countries. | frontend | <a href="https://workgo.ai/dashboard/job/6189" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://digital.ai" target="_blank">Digital.ai</a> | Principal Solutions Architect | None | devops | <a href="https://workgo.ai/dashboard/job/6181" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.netflix.com" target="_blank">Netflix</a> | Software Engineer 5 - TV & Web Player Platform | Remote | fullstack | <a href="https://workgo.ai/dashboard/job/6185" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://jungroup.com" target="_blank">Jun Group</a> | Software Developer, Server Side Technologies (Remote / Contract) | Anywhere | backend | <a href="https://workgo.ai/dashboard/job/6167" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://mozilla.org" target="_blank">Mozilla</a> | Staff Software Engineer, Desktop Integration | Anywhere | fullstack | <a href="https://workgo.ai/dashboard/job/6160" target="_blank">Apply</a> | 2025-07-12 |
+| wavestrong | Remote Soar Developer/Engineer | Dallas, United States | devops | <a href="https://workgo.ai/dashboard/job/6155" target="_blank">Apply</a> | 2025-07-12 |
+| wavestrong | Remote One Trust Sme (Developer/Engineer) | Dallas, United States | backend | <a href="https://workgo.ai/dashboard/job/6156" target="_blank">Apply</a> | 2025-07-12 |
+| wavestrong | Remote Big Id Developer (Pst Time Zone) | San Ramon, United States | backend | <a href="https://workgo.ai/dashboard/job/6157" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://builtin.com" target="_blank">Built In</a> | Senior Software Engineer (Remote) | United States | fullstack | <a href="https://workgo.ai/dashboard/job/6148" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.vtex.com" target="_blank">Vtex</a> | Engineering Manager, Ai Workspace | United States | backend | <a href="https://workgo.ai/dashboard/job/6149" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://maplecrafteng.com" target="_blank">MapleCraft Engineers</a> | Remote Project Engineer | United States | other | <a href="https://workgo.ai/dashboard/job/6120" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://voleon.com/?ref=skipthedrive" target="_blank">Voleon</a> | Chief Information Security Officer | Berkeley or Remote | devops | <a href="https://workgo.ai/dashboard/job/6117" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://technologyadvice.com/?ref=skipthedrive" target="_blank">TechnologyAdvice</a> | Manager, Information Technology | Nashville, TN | devops | <a href="https://workgo.ai/dashboard/job/6116" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://seedcamp.com" target="_blank">FluidStack</a> | Site Reliability Engineer | San Francisco, CA, USA · Europe · Remote · London, UK · New York, NY, USA · Remote · United Kingdom · United States · Remote | devops | <a href="https://workgo.ai/dashboard/job/6106" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://growe.com" target="_blank">Growe</a> | Senior .NET Engineer | Worldwide | backend | <a href="https://workgo.ai/dashboard/job/6084" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://careers.ilogos.biz/cookie-policy" target="_blank">iLogos Game Studios</a> | 3D JS Developer | Anywhere in the World – Remote | frontend | <a href="https://workgo.ai/dashboard/job/6086" target="_blank">Apply</a> | 2025-07-11 |
@@ -56,16 +82,16 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.myridius.com" target="_blank">RCG Global Services</a> | Junior Salesforce Admin | Remote | other | <a href="https://workgo.ai/dashboard/job/6052" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.nahc.io" target="_blank">NAHC Limited</a> | Senior Developer (Flutter) | Hong Kong | mobile | <a href="https://workgo.ai/dashboard/job/6045" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://gitlab.com" target="_blank">GitLab</a> | Intermediate Backend Engineer(ruby/Python), Ai Engineering: Duo Chat | Remote-Global | backend | <a href="https://workgo.ai/dashboard/job/6046" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://kitware.com/careers" target="_blank">Kitware</a> | R&D Engineer – CV SD | Clifton Park, New York | other | <a href="https://workgo.ai/dashboard/job/6034" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://jobs.lever.co/luxurypresence" target="_blank">Luxury Presence</a> | Sr. QA Manager - LATAM (Remote) | Latin America | devops | <a href="https://workgo.ai/dashboard/job/6044" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Senior Software Engineer, Backend (Streaming) | United States | backend | <a href="https://workgo.ai/dashboard/job/6043" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Senior Software Engineer, Backend (Open Loop Bnpl) | United States | backend | <a href="https://workgo.ai/dashboard/job/6041" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Software Engineer I | Remote Spain | backend | <a href="https://workgo.ai/dashboard/job/6039" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://jobs.lever.co/luxurypresence" target="_blank">Luxury Presence</a> | Sr. QA Manager - US (Remote) | United States | devops | <a href="https://workgo.ai/dashboard/job/6037" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Manager, Software Engineering (Repayments Engineering) | Remote Poland | backend | <a href="https://workgo.ai/dashboard/job/6036" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Manager, Software Engineering (Repayments Engineering) | Remote Spain | backend | <a href="https://workgo.ai/dashboard/job/6035" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://careers.bungie.com" target="_blank">Bungie</a> | Game Services Engineering Architect Central Tech | United States | backend | <a href="https://workgo.ai/dashboard/job/6033" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.affirm.com" target="_blank">Affirm</a> | Senior Software Engineer, Backend (Batch Infrastructure) | United States | backend | <a href="https://workgo.ai/dashboard/job/6040" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://careers.bungie.com" target="_blank">Bungie</a> | Game Services Engineering Architect Central Tech | United States | backend | <a href="https://workgo.ai/dashboard/job/6033" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Manager, Software Engineering (Repayments Engineering) | Remote Spain | backend | <a href="https://workgo.ai/dashboard/job/6035" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Manager, Software Engineering (Repayments Engineering) | Remote Poland | backend | <a href="https://workgo.ai/dashboard/job/6036" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://jobs.lever.co/luxurypresence" target="_blank">Luxury Presence</a> | Sr. QA Manager - US (Remote) | United States | devops | <a href="https://workgo.ai/dashboard/job/6037" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Software Engineer I | Remote Spain | backend | <a href="https://workgo.ai/dashboard/job/6039" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Senior Software Engineer, Backend (Open Loop Bnpl) | United States | backend | <a href="https://workgo.ai/dashboard/job/6041" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://www.affirm.com" target="_blank">Affirm</a> | Senior Software Engineer, Backend (Streaming) | United States | backend | <a href="https://workgo.ai/dashboard/job/6043" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://jobs.lever.co/luxurypresence" target="_blank">Luxury Presence</a> | Sr. QA Manager - LATAM (Remote) | Latin America | devops | <a href="https://workgo.ai/dashboard/job/6044" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://kitware.com/careers" target="_blank">Kitware</a> | R&D Engineer – CV SD | Clifton Park, New York | other | <a href="https://workgo.ai/dashboard/job/6034" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.affirm.com" target="_blank">Affirm</a> | Software Engineer Ii (Furnishing Platform) | Remote Poland | backend | <a href="https://workgo.ai/dashboard/job/6031" target="_blank">Apply</a> | 2025-07-11 |
 | VinAudit | Senior Backend Developer | Bellevue, Washington, United States | backend | <a href="https://workgo.ai/dashboard/job/6028" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.realworkfromanywhere.com/company/livekit" target="_blank">Livekit</a> | Senior Software Engineer, Gateway | Worldwide | backend | <a href="https://workgo.ai/dashboard/job/5996" target="_blank">Apply</a> | 2025-07-11 |
@@ -107,13 +133,13 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Coding Specialist (Fluent in French) – AI Trainer | Anywhere | fullstack | <a href="https://workgo.ai/dashboard/job/5790" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://www.halcyon.ai" target="_blank">Halcyon</a> | Sr. Director, Field Engineering | Anywhere | other | <a href="https://workgo.ai/dashboard/job/5784" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://remote.co" target="_blank">TeamUpdraft</a> | Full Stack PHP & REACT Developer (WordPress) - Burst Statistics BV | Remote from Anywhere | fullstack | <a href="https://workgo.ai/dashboard/job/5779" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | LLM Engineer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5777" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Bash Coding Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5773" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | C# Coding Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5772" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | JavaScript Coding Specialist - AI Trainer | Remote from Anywhere | fullstack | <a href="https://workgo.ai/dashboard/job/5769" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Python Coding Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5765" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Java Coding Specialist - AI Trainer | Remote from Anywhere | backend | <a href="https://workgo.ai/dashboard/job/5764" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Civil Engineering Specialist – AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5767" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Java Coding Specialist - AI Trainer | Remote from Anywhere | backend | <a href="https://workgo.ai/dashboard/job/5764" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Python Coding Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5765" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | JavaScript Coding Specialist - AI Trainer | Remote from Anywhere | fullstack | <a href="https://workgo.ai/dashboard/job/5769" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | C# Coding Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5772" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Bash Coding Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5773" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | LLM Engineer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5777" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://www.pincites.com" target="_blank">Pincites</a> | AI-Native Engineer (Frontend/Full-stack) | None | fullstack | <a href="https://workgo.ai/dashboard/job/5761" target="_blank">Apply</a> | 2025-07-09 |
 | unknown | Frontend-Entwickler (m/w/d) - umzugsbereit, Raum Bielefeld/Oelde | Worldwide | frontend | <a href="https://workgo.ai/dashboard/job/5759" target="_blank">Apply</a> | 2025-07-09 |
 | <a href="https://clientharbor.com" target="_blank">Clientharbor</a> | Automation Developer (Go High Level, VAPI, n8n) | Houston, Texas, United States | backend | <a href="https://workgo.ai/dashboard/job/5754" target="_blank">Apply</a> | 2025-07-09 |
@@ -148,8 +174,8 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://openai.com" target="_blank">OpenAI</a> | Data Center Security Technical Lead | San Francisco, Seattle, or New York City | devops | <a href="https://workgo.ai/dashboard/job/5642" target="_blank">Apply</a> | 2025-07-09 |
 | <a href="https://p-1.ai" target="_blank">P-1 AI</a> | Forward Deployed Engineer | United States | backend | <a href="https://workgo.ai/dashboard/job/5606" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="http://outliant.com/careers" target="_blank">Outliant</a> | Frontend Engineer II (with Webflow expertise) | Anywhere | frontend | <a href="https://workgo.ai/dashboard/job/5608" target="_blank">Apply</a> | 2025-07-08 |
-| <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Developer - Master Level Internship | Canada | fullstack | <a href="https://workgo.ai/dashboard/job/5589" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Cloud Engineering Intern | Canada | devops | <a href="https://workgo.ai/dashboard/job/5591" target="_blank">Apply</a> | 2025-07-08 |
+| <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Developer - Master Level Internship | Canada | fullstack | <a href="https://workgo.ai/dashboard/job/5589" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Automation Solution Architect | Canada | devops | <a href="https://workgo.ai/dashboard/job/5575" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Quality Assurance—Master-Level | Canada | other | <a href="https://workgo.ai/dashboard/job/5579" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/tines" target="_blank">Tines</a> | Senior Manager, Solutions Engineering | Remote - United States | devops | <a href="https://workgo.ai/dashboard/job/5574" target="_blank">Apply</a> | 2025-07-08 |
@@ -199,14 +225,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.flocksafety.com" target="_blank">Flock Safety</a> | Staff Software Engineer - Rust | USA | backend | <a href="https://workgo.ai/dashboard/job/5337" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://p-1.ai" target="_blank">P-1 AI</a> | Software Engineer - Enterprise Infrastructure Integration | United States | devops | <a href="https://workgo.ai/dashboard/job/5302" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://www.textron.com" target="_blank">Textron</a> | Network Architect - Staff Engineer | Fort Worth, TX Bell Headquarters and the Classified SIL in Arlington, TX | devops | <a href="https://workgo.ai/dashboard/job/5251" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="http://thoughtful.ai" target="_blank">Thoughtful AI</a> | Sr. Software Engineer, Full Stack | None | fullstack | <a href="https://workgo.ai/dashboard/job/5273" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.celonis.com" target="_blank">Celonis</a> | Senior Salesforce Engineer | None | backend | <a href="https://workgo.ai/dashboard/job/5272" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Senior Forward Deployed Engineer | None | backend | <a href="https://workgo.ai/dashboard/job/5271" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="http://gomotive.com" target="_blank">Motive</a> | Manager, AI Performance and Reliability | None | other | <a href="https://workgo.ai/dashboard/job/5270" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="http://gomotive.com" target="_blank">Motive</a> | Engineering Manager, AI Reliability | None | other | <a href="https://workgo.ai/dashboard/job/5269" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://groq.com" target="_blank">Groq</a> | Sr. Director of Hardware Systems Engineering | Silicon Valley | devops | <a href="https://workgo.ai/dashboard/job/5261" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://gusto.com" target="_blank">Gusto</a> | Principal AI Software Engineer | Denver, San Francisco, New York, or remote | other | <a href="https://workgo.ai/dashboard/job/5260" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://salesforce.com" target="_blank">Salesforce</a> | Senior Technical Architect - Financial Services | Manila, Philippines | fullstack | <a href="https://workgo.ai/dashboard/job/5256" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | WordPress Developer | None | fullstack | <a href="https://workgo.ai/dashboard/job/5244" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://sentrium.io" target="_blank">Sentrium</a> | QA Engineer - Linux and Networking Background | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5238" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.provi.com" target="_blank">Provi</a> | Staff Software Engineer | Anywhere | backend | <a href="https://workgo.ai/dashboard/job/5234" target="_blank">Apply</a> | 2025-07-05 |
@@ -239,29 +257,34 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://jobscollider.com/companies/boomi" target="_blank">Boomi</a> | Boomi Technical Architect | Remote - India | backend | <a href="https://workgo.ai/dashboard/job/5132" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/merqube" target="_blank">MerQube</a> | Staff Software Engineer - Backend | Remote - India | backend | <a href="https://workgo.ai/dashboard/job/5126" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/dsr-corporation" target="_blank">DSR Corporation</a> | Java Developer | Portugal | backend | <a href="https://workgo.ai/dashboard/job/5120" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://www.comply.com/?ref=skipthedrive" target="_blank">COMPLY</a> | Senior Information Security Engineer | United States | devops | <a href="https://workgo.ai/dashboard/job/5118" target="_blank">Apply</a> | 2025-07-04 |
-| Housecall Pro | Tech Lead | Brazil | backend | <a href="https://workgo.ai/dashboard/job/5119" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer - Quality Assurance (AI Trainer) | Remote - Malaysia | backend | <a href="https://workgo.ai/dashboard/job/5115" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer-Quality Assurance (AI Trainer) | South Africa | backend | <a href="https://workgo.ai/dashboard/job/5114" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer - Quality Assurance (AI Trainer) | South Africa | backend | <a href="https://workgo.ai/dashboard/job/5113" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer - Quality Assurance (AI Trainer) | Malaysia | backend | <a href="https://workgo.ai/dashboard/job/5110" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer - Quality Assurance AI Trainer | Brazil | fullstack | <a href="https://workgo.ai/dashboard/job/5109" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer - AI Trainer | Estonia | other | <a href="https://workgo.ai/dashboard/job/5111" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer-Quality Assurance (AI Trainer) | Singapore | backend | <a href="https://workgo.ai/dashboard/job/5112" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://dlocal.com" target="_blank">dLocal</a> | Senior Front End Engineer | Argentina, Brazil | frontend | <a href="https://workgo.ai/dashboard/job/5107" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Software Developer-Quality Assurance (AI Trainer) | New Zealand | backend | <a href="https://workgo.ai/dashboard/job/5106" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://www.lucioai.com" target="_blank">Lucio</a> | SDET | Remote | devops | <a href="https://workgo.ai/dashboard/job/2268" target="_blank">Apply</a> | 2025-05-29 |
 | <a href="https://www.lucioai.com" target="_blank">Lucio</a> | QA Engineer | Remote | other | <a href="https://workgo.ai/dashboard/job/2266" target="_blank">Apply</a> | 2025-05-29 |
-| <a href="https://www.lucioai.com" target="_blank">Lucio</a> | Backend Engineer | Remote | backend | <a href="https://workgo.ai/dashboard/job/2265" target="_blank">Apply</a> | 2025-05-29 |
 | <a href="https://www.lucioai.com" target="_blank">Lucio</a> | Chief Technology Officer | Bangalore | Remote | devops | <a href="https://workgo.ai/dashboard/job/2263" target="_blank">Apply</a> | 2025-05-29 |
 
 </details>
 
 <details>
-<summary>datascience (125 positions)</summary>
+<summary>datascience (129 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="https://jobscollider.com/companies/sandboxaq" target="_blank">SandboxAQ</a> | Staff Machine Learning Operations Engineer | United States, Canada | machine_learning | <a href="https://workgo.ai/dashboard/job/6218" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://empower.me" target="_blank">Empower</a> | Finance Systems & Automation Analyst | Worldwide | data_engineering | <a href="https://workgo.ai/dashboard/job/6213" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://empower.me" target="_blank">Empower</a> | Sr. Credit Analytics Manager | Worldwide | data_analysis | <a href="https://workgo.ai/dashboard/job/6203" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.netflix.com" target="_blank">Netflix</a> | Data Engineering Manager - Member Innovation | Remote | data_engineering | <a href="https://workgo.ai/dashboard/job/6184" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.netflix.com" target="_blank">Netflix</a> | Data Scientist (L5) - Customer Service Experimentation | Remote | data_analysis | <a href="https://workgo.ai/dashboard/job/6183" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.thumbtack.com" target="_blank">Thumbtack</a> | Applied Scientist (Large Pro Growth) | None | machine_learning | <a href="https://workgo.ai/dashboard/job/6179" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.moaijobs.com/company/xai" target="_blank">xAI</a> | AI Tutor - Data Science | None | other | <a href="https://workgo.ai/dashboard/job/6176" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.thumbtack.com" target="_blank">Thumbtack</a> | Applied Scientist (Large Pro Growth) | None | machine_learning | <a href="https://workgo.ai/dashboard/job/6180" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://wikimediafoundation.org" target="_blank">Wikimedia Foundation</a> | Data Engineer | Anywhere | data_engineering | <a href="https://workgo.ai/dashboard/job/6172" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.moonpay.com" target="_blank">MoonPay</a> | Senior Data Engineer | Anywhere | data_engineering | <a href="https://workgo.ai/dashboard/job/6163" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://alignerr.com" target="_blank">Alignerr</a> | AI Trainer for Swedish Writers/Speakers (Freelance, Remote) | Anywhere | ai_research | <a href="https://workgo.ai/dashboard/job/6158" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://inspiren.com" target="_blank">Inspiren</a> | Staff Engineer, Applied Computer Vision | United States | machine_learning | <a href="https://workgo.ai/dashboard/job/6119" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://springhealth.com" target="_blank">Spring Health</a> | Senior Data Scientist, Speciality Care | Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/6098" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://bhgfinancial.com" target="_blank">BHG Financial</a> | Senior Data Scientist | Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/6096" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Croatian Language Specialist - AI Trainer | Anywhere | ai_research | <a href="https://workgo.ai/dashboard/job/6092" target="_blank">Apply</a> | 2025-07-11 |
@@ -310,11 +333,11 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Latvian Language Specialist – AI Trainer | Anywhere | ai_research | <a href="https://workgo.ai/dashboard/job/5787" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Neuroscience Specialist – AI Trainer | Anywhere | ai_research | <a href="https://workgo.ai/dashboard/job/5786" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Swahili Language Specialist – AI Trainer | Anywhere | ai_research | <a href="https://workgo.ai/dashboard/job/5785" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Actuarial Science Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5776" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | SQL Coding Specialist - AI Trainer | Remote from Anywhere | data_engineering | <a href="https://workgo.ai/dashboard/job/5775" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Medicine Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5774" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Cybersecurity Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5770" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Neuroscience Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5766" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Cybersecurity Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5770" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Medicine Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5774" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | SQL Coding Specialist - AI Trainer | Remote from Anywhere | data_engineering | <a href="https://workgo.ai/dashboard/job/5775" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Actuarial Science Specialist – AI Trainer | Remote from Anywhere | machine_learning | <a href="https://workgo.ai/dashboard/job/5776" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://jobscollider.com/companies/humani" target="_blank">humani</a> | Senior Machine Learning Engineer | India | machine_learning | <a href="https://workgo.ai/dashboard/job/5722" target="_blank">Apply</a> | 2025-07-09 |
 | <a href="https://www.revolut.com" target="_blank">Revolut</a> | Data Analyst (Treasury) | United Kingdom | data_analysis | <a href="https://workgo.ai/dashboard/job/5707" target="_blank">Apply</a> | 2025-07-09 |
 | <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Malay Language Specialist - AI Trainer | Anywhere in the World – Remote | machine_learning | <a href="https://workgo.ai/dashboard/job/5683" target="_blank">Apply</a> | 2025-07-09 |
@@ -360,7 +383,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.invisible.co" target="_blank">Invisible</a> | Materials Science Specialist – AI Trainer | None | ai_research | <a href="https://workgo.ai/dashboard/job/5559" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.coinbase.com" target="_blank">Coinbase</a> | Staff Machine Learning Platform Engineer | None | machine_learning | <a href="https://workgo.ai/dashboard/job/5535" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.telusdigital.com" target="_blank">TELUS Digital</a> | US Rater | Open to candidates from all countries. | data_analysis | <a href="https://workgo.ai/dashboard/job/5531" target="_blank">Apply</a> | 2025-07-08 |
-| <a href="https://www.telusdigital.com" target="_blank">TELUS Digital</a> | US Rater | Remote | data_analysis | <a href="https://workgo.ai/dashboard/job/5494" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://hello.vrchat.com" target="_blank">VRChat</a> | Senior/Staff Data Engineer | Anywhere | data_engineering | <a href="https://workgo.ai/dashboard/job/5467" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://jobscollider.com/companies/marqeta" target="_blank">Marqeta</a> | Staff Machine Learning Scientist | Remote - United States | machine_learning | <a href="https://workgo.ai/dashboard/job/5440" target="_blank">Apply</a> | 2025-07-07 |
 | Ritual | Research Intern | Open to candidates from all countries. | ai_research | <a href="https://workgo.ai/dashboard/job/5420" target="_blank">Apply</a> | 2025-07-07 |
@@ -369,11 +391,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.unity.com" target="_blank">Unity</a> | Senior Machine Learning Developer | None | machine_learning | <a href="https://workgo.ai/dashboard/job/5340" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://www.feedzai.com" target="_blank">Feedzai</a> | Data Analyst | None | data_analysis | <a href="https://workgo.ai/dashboard/job/5339" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://www.yipitdata.com" target="_blank">YipitData</a> | Data Engineering Manager | India Remote | data_engineering | <a href="https://workgo.ai/dashboard/job/5325" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://databricks.com" target="_blank">Databricks</a> | Data Scientist / Machine Learning Engineer | None | machine_learning | <a href="https://workgo.ai/dashboard/job/5275" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://databricks.com" target="_blank">Databricks</a> | Manager, Machine Learning | Bangalore | machine_learning | <a href="https://workgo.ai/dashboard/job/5274" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.pathai.com" target="_blank">PathAI</a> | Machine Learning Engineer | None | machine_learning | <a href="https://workgo.ai/dashboard/job/5268" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://stripe.com" target="_blank">Stripe</a> | Financial Data Analyst | None | data_analysis | <a href="https://workgo.ai/dashboard/job/5265" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.twilio.com" target="_blank">Twilio</a> | Staff Machine Learning Engineer | Canada (Ontario, Alberta, British Columbia) | machine_learning | <a href="https://workgo.ai/dashboard/job/5264" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://mindrift.ai" target="_blank">Mindrift</a> | Finance Analyst - AI Trainer | None | ai_research | <a href="https://workgo.ai/dashboard/job/5248" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://bhgfinancial.com" target="_blank">BHG Financial</a> | Data Scientist II | Anywhere | data_analysis | <a href="https://workgo.ai/dashboard/job/5225" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://playonsports.com" target="_blank">PlayOn</a> | Data Scientist | Anywhere | data_analysis | <a href="https://workgo.ai/dashboard/job/5224" target="_blank">Apply</a> | 2025-07-05 |
@@ -385,8 +402,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://remote.co" target="_blank">Company details here</a> | Senior - Staff Data Engineer | Remote from Anywhere | data_engineering | <a href="https://workgo.ai/dashboard/job/5181" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Senior Data Scientist Advisor | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5178" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/pomelo-care" target="_blank">Pomelo Care</a> | Security and Compliance Analyst | United States | data_analysis | <a href="https://workgo.ai/dashboard/job/5134" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://jobscollider.com/companies/data-society" target="_blank">Data Society</a> | Data Analyst | Worldwide | data_analysis | <a href="https://workgo.ai/dashboard/job/5117" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://weedmaps.com" target="_blank">Weedmaps</a> | Analytics Engineer | United States | data_engineering | <a href="https://workgo.ai/dashboard/job/5100" target="_blank">Apply</a> | 2025-07-04 |
 
 </details>
 
@@ -395,6 +410,14 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="https://remote.co" target="_blank">Action for the Climate Emergency</a> | AI Product Manager | Worldwide | product_manager | <a href="https://workgo.ai/dashboard/job/6232" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/henry-schein-one" target="_blank">Henry Schein One</a> | VP, Product Management | Remote - Worldwide | product_manager | <a href="https://workgo.ai/dashboard/job/6226" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/trustonic" target="_blank">Trustonic</a> | Technical Project Manager | Remote - India | product_manager | <a href="https://workgo.ai/dashboard/job/6224" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/trustonic" target="_blank">Trustonic</a> | Technical Project Manager | South Africa | product_manager | <a href="https://workgo.ai/dashboard/job/6222" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/singlestore" target="_blank">SingleStore</a> | Head of Digital & AI Transformation | United States | product_manager | <a href="https://workgo.ai/dashboard/job/6219" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.gravie.com" target="_blank">Gravie</a> | Senior Product Manager, Health Plan Product | Anywhere | product_manager | <a href="https://workgo.ai/dashboard/job/6169" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.gravie.com" target="_blank">Gravie</a> | Product Manager, Payment Integrity | Anywhere | product_manager | <a href="https://workgo.ai/dashboard/job/6166" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.turing.com" target="_blank">Turing</a> | Product Manager – Asset Management & AI Solutions | Anywhere | product_manager | <a href="https://workgo.ai/dashboard/job/6159" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://launchpotato.com" target="_blank">Launch Potato</a> | Product Growth Manager | Canada | product_manager | <a href="https://workgo.ai/dashboard/job/6065" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://jobs.lever.co/luxurypresence" target="_blank">Luxury Presence</a> | Sr. Product Manager, AI Activity Feed - US (Remote) | United States | product_manager | <a href="https://workgo.ai/dashboard/job/6038" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.realworkfromanywhere.com/company/clutch" target="_blank">Clutch</a> | Group Product Manager, Digital Account Opening | Worldwide | product_manager | <a href="https://workgo.ai/dashboard/job/5998" target="_blank">Apply</a> | 2025-07-11 |
@@ -413,8 +436,8 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | Raisely | Product Manager | Remote - Canada | product_manager | <a href="https://workgo.ai/dashboard/job/5588" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/unit4" target="_blank">Unit4</a> | Product Lead | Spain | product_manager | <a href="https://workgo.ai/dashboard/job/5587" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/ryz-labs" target="_blank">Ryz Labs</a> | Senior Product Manager | Argentina | product_manager | <a href="https://workgo.ai/dashboard/job/5586" target="_blank">Apply</a> | 2025-07-08 |
-| <a href="https://jobscollider.com/companies/nagarro" target="_blank">Nagarro</a> | Pricing Architect - Private Cloud | Germany | product_manager | <a href="https://workgo.ai/dashboard/job/5583" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Product Management Specialist | Canada | product_manager | <a href="https://workgo.ai/dashboard/job/5580" target="_blank">Apply</a> | 2025-07-08 |
+| <a href="https://jobscollider.com/companies/nagarro" target="_blank">Nagarro</a> | Pricing Architect - Private Cloud | Germany | product_manager | <a href="https://workgo.ai/dashboard/job/5583" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/figma" target="_blank">Figma</a> | Director, Product Support | United States | product_manager | <a href="https://workgo.ai/dashboard/job/5570" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/employment-hero" target="_blank">Employment Hero</a> | Product Manager | Australia | product_manager | <a href="https://workgo.ai/dashboard/job/5569" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.coinbase.com" target="_blank">Coinbase</a> | Senior Product Manager - Consumer | None | product_manager | <a href="https://workgo.ai/dashboard/job/5534" target="_blank">Apply</a> | 2025-07-08 |
@@ -423,27 +446,23 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://later.com" target="_blank">Later</a> | Senior Product Manager | Worldwide | product_manager | <a href="https://workgo.ai/dashboard/job/5411" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://jobscollider.com/companies" target="_blank">ServiceNow</a> | Transformation & Change Manager - Digital Technology Experience, Change Activation | United States | product_manager | <a href="https://workgo.ai/dashboard/job/5410" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://www.virtualvocations.com" target="_blank">Virtual Vocations</a> | Director of Disaster Management | Remote | other | <a href="https://workgo.ai/dashboard/job/5317" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://wikimediafoundation.org" target="_blank">Wikimedia Foundation</a> | Lead Product Manager - Abstract Wikipedia | Anywhere | product_manager | <a href="https://workgo.ai/dashboard/job/5283" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.pinterestcareers.com" target="_blank">Pinterest</a> | Sr. Product Manager, Commerce Growth | Remote | product_manager | <a href="https://workgo.ai/dashboard/job/5267" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="http://redditinc.com" target="_blank">Reddit</a> | Senior Product Manager, Growth — New User Acquisition, Eastern Timezone | 100% remote (EST timezone or NYC preferred) | product_manager | <a href="https://workgo.ai/dashboard/job/5266" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.twilio.com" target="_blank">Twilio</a> | Staff Product Manager, Operations & Infrastructure (O&I) | Remote | product_manager | <a href="https://workgo.ai/dashboard/job/5263" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.coinbase.com" target="_blank">Coinbase</a> | Product Manager II - Platform Staking | None | product_manager | <a href="https://workgo.ai/dashboard/job/5259" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://leonardo.ai" target="_blank">Leonardo AI</a> | Enterprise Delivery Manager | Remote | product_manager | <a href="https://workgo.ai/dashboard/job/5254" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://leonardo.ai" target="_blank">Leonardo AI</a> | Enterprise Delivery Manager | Remote | product_manager | <a href="https://workgo.ai/dashboard/job/5253" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://ember-climate.org" target="_blank">Ember</a> | Project Manager - Climate and Energy | None | product_manager | <a href="https://workgo.ai/dashboard/job/5242" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.honorcare.com/honor-careers" target="_blank">Honor</a> | Director of Product Management, Demand Generation | Anywhere | product_manager | <a href="https://workgo.ai/dashboard/job/5230" target="_blank">Apply</a> | 2025-07-05 |
 | BusRight | Product Manager - Platform | None | product_manager | <a href="https://workgo.ai/dashboard/job/5207" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.revolut.com" target="_blank">Revolut</a> | Strategy & Operations Manager (Product) | Argentina | product_manager | <a href="https://workgo.ai/dashboard/job/5154" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.twilio.com" target="_blank">Twilio</a> | Product Manager - Operations & Infrastructure | United States | product_manager | <a href="https://workgo.ai/dashboard/job/5133" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/beter" target="_blank">BETER</a> | Business/System Analyst | Ukraine | product_manager | <a href="https://workgo.ai/dashboard/job/5116" target="_blank">Apply</a> | 2025-07-04 |
 
 </details>
 
 <details>
-<summary>design (60 positions)</summary>
+<summary>design (61 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="http://www.filmless.com" target="_blank">Filmless</a> | Freelance Animator & GFX Artist | Worldwide | designer | <a href="https://workgo.ai/dashboard/job/6206" target="_blank">Apply</a> | 2025-07-12 |
+| Cube Care Co. | Multimedia Specialist (Remote) | Philippines, Philippines, Philippines | designer | <a href="https://workgo.ai/dashboard/job/6201" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://remote.co" target="_blank">Invisible Technologies</a> | Staff Product Designer | None | designer | <a href="https://workgo.ai/dashboard/job/6174" target="_blank">Apply</a> | 2025-07-12 |
+| Fullerton Engineering Consultants | Design Manager | Remote | designer | <a href="https://workgo.ai/dashboard/job/6121" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://parsons.com" target="_blank">Parsons</a> | Design Manager - APD Infrastructure | Canada | designer | <a href="https://workgo.ai/dashboard/job/6073" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://quantum-machines.co" target="_blank">Quantum Machines</a> | Electrical Design Engineer R&D | Remote | other | <a href="https://workgo.ai/dashboard/job/6068" target="_blank">Apply</a> | 2025-07-11 |
 | Betby | Head Of Product Design | Remote | designer | <a href="https://workgo.ai/dashboard/job/6061" target="_blank">Apply</a> | 2025-07-11 |
@@ -487,7 +506,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="http://atlasgames.co" target="_blank">Atlas Games</a> | Creative Director | Remote | designer | <a href="https://workgo.ai/dashboard/job/5312" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.loudface.co" target="_blank">LoudFace</a> | UI/UX Designer | Remote | designer | <a href="https://workgo.ai/dashboard/job/5311" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://scribehow.com" target="_blank">Scribe</a> | Senior Product Designer | San Francisco, CA | designer | <a href="https://workgo.ai/dashboard/job/5310" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://finchcare.com" target="_blank">Finch Care</a> | Product Designer | United States | designer | <a href="https://workgo.ai/dashboard/job/5309" target="_blank">Apply</a> | 2025-07-05 |
 | Proven | Amazing Dribbblers? UX/UI Designer | Remote | designer | <a href="https://workgo.ai/dashboard/job/5308" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://wirestock.io" target="_blank">Wirestock</a> | Senior Photo Manipulation Artist | Remote | designer | <a href="https://workgo.ai/dashboard/job/5307" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://dribbble.com" target="_blank">day3</a> | Remote Web Designer for Design Agency | Remote | designer | <a href="https://workgo.ai/dashboard/job/5306" target="_blank">Apply</a> | 2025-07-05 |
@@ -496,22 +514,35 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://picnichealth.com" target="_blank">PicnicHealth</a> | Product Designer | US | designer | <a href="https://workgo.ai/dashboard/job/5300" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.applainers.com" target="_blank">Applainers</a> | Motion Designer (Remote) | San Francisco, California, United States | designer | <a href="https://workgo.ai/dashboard/job/5295" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Interior Designer | None | designer | <a href="https://workgo.ai/dashboard/job/5247" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.softr.io" target="_blank">Softr</a> | Product Designer - Remote | Anywhere in the World – Remote | designer | <a href="https://workgo.ai/dashboard/job/5240" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.trustedhousesitters.com" target="_blank">TrustedHousesitters</a> | Marketing Design Lead | Anywhere | designer | <a href="https://workgo.ai/dashboard/job/5229" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://sourcegraph.com" target="_blank">Sourcegraph</a> | Design Engineer - Amp [IC4] | Worldwide | designer | <a href="https://workgo.ai/dashboard/job/5212" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://www.abhyaz.com" target="_blank">Abhyaz</a> | UI / UX Designer Intern | Open to candidates from all countries. | designer | <a href="https://workgo.ai/dashboard/job/5200" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/dacodes" target="_blank">DaCodes</a> | Senior UX Designer | Mexico | designer | <a href="https://workgo.ai/dashboard/job/5143" target="_blank">Apply</a> | 2025-07-05 |
 | Lokalise | Staff Product Designer | Remote | designer | <a href="https://workgo.ai/dashboard/job/5122" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://jobscollider.com/companies/kittl" target="_blank">Kittl</a> | Senior Art Director - Graphic Design | Germany | designer | <a href="https://workgo.ai/dashboard/job/5121" target="_blank">Apply</a> | 2025-07-04 |
 | <a href="https://remote.co/company/decentralized_masters" target="_blank">Decentralized Masters</a> | Webflow Developer and Graphic Designer | Brazil | designer | <a href="https://workgo.ai/dashboard/job/5102" target="_blank">Apply</a> | 2025-07-04 |
 
 </details>
 
 <details>
-<summary>customer_service (114 positions)</summary>
+<summary>customer_service (124 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| LawPay | Dispute Defense Specialist | United States | customer_support | <a href="https://workgo.ai/dashboard/job/6223" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://safetywing.com" target="_blank">SafetyWing</a> | Customer Care Specialist (Americas) | Worldwide | customer_support | <a href="https://workgo.ai/dashboard/job/6202" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.guru.com" target="_blank">Guru</a> | Administrative Support - Kazakhstan | Kazakhstan | customer_support | <a href="https://workgo.ai/dashboard/job/6197" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.uipath.com" target="_blank">UiPath</a> | Technical Account Manager | Texas, USA | success_manager | <a href="https://workgo.ai/dashboard/job/6190" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://salesforce.com" target="_blank">Salesforce</a> | Senior Technical Architect | Mexico --- Remote | success_manager | <a href="https://workgo.ai/dashboard/job/6187" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://extrahop.com" target="_blank">ExtraHop</a> | Customer Success Manager | Anywhere | success_manager | <a href="https://workgo.ai/dashboard/job/6170" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobs.lever.co/conversica" target="_blank">Сonversica</a> | Customer Success Manager (Automotive) | United States, Remote | success_manager | <a href="https://workgo.ai/dashboard/job/6152" target="_blank">Apply</a> | 2025-07-12 |
+| SpotOn Corporate | Technical Support Representative | United States | customer_support | <a href="https://workgo.ai/dashboard/job/6153" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobs.lever.co/mashgin" target="_blank">Mashgin</a> | Remote Technical Support | United States | customer_support | <a href="https://workgo.ai/dashboard/job/6144" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.simplyhired.com" target="_blank">e-business international</a> | Virtual Customer Representative (Entry Level) | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/6137" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.simplyhired.com" target="_blank">e-business international</a> | Fully Remote Customer Agent (Entry Level) | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/6136" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.shormedical.com" target="_blank">Shor Medical</a> | Virtual Medical Assistant | United States | customer_support | <a href="https://workgo.ai/dashboard/job/6134" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.simplyhired.com" target="_blank">e-business international</a> | Remote Customer Agent (Entry Level) | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/6133" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.simplyhired.com" target="_blank">Alpanian Design</a> | Email/Chat Support | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/6131" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.simplyhired.com" target="_blank">Workana</a> | Remote Freelance Customer Support Agent (20 hrs/week) | United States | customer_support | <a href="https://workgo.ai/dashboard/job/6130" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Senior Customer Success Manager | Remote from Anywhere | success_manager | <a href="https://workgo.ai/dashboard/job/6108" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.revolut.com" target="_blank">Revolut</a> | Team Lead (Support) | India | customer_support | <a href="https://workgo.ai/dashboard/job/6107" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://nerdy.com" target="_blank">Varsity Tutors</a> | Customer Re-engagement Specialist (Work from Home) | Anywhere | customer_support | <a href="https://workgo.ai/dashboard/job/6097" target="_blank">Apply</a> | 2025-07-11 |
@@ -598,7 +629,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://jobscollider.com/companies" target="_blank">Motus</a> | Customer Support Agent | United States | customer_support | <a href="https://workgo.ai/dashboard/job/5424" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://www.revolut.com" target="_blank">Revolut</a> | Phone Support Specialist - Accounts Protection | India | customer_support | <a href="https://workgo.ai/dashboard/job/5417" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://jobscollider.com/companies/rapid-micro-biosystems" target="_blank">Rapid Micro Biosystems</a> | Technical Support Specialist | Germany | customer_support | <a href="https://workgo.ai/dashboard/job/5398" target="_blank">Apply</a> | 2025-07-06 |
-| Storybook Portraits | Payment Recovery Specialist | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/5385" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://www.simplyhired.com" target="_blank">The Green Law Group, LLP</a> | Renewal Specialist (Remote / Flexible Hours) | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/5380" target="_blank">Apply</a> | 2025-07-06 |
 | BlueBird Heating and Air | Office Assistant/Scheduler | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/5378" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://www.altisource.com/careers" target="_blank">Altisource</a> | Customer Service Representative | Anywhere in the World – Remote | customer_support | <a href="https://workgo.ai/dashboard/job/5373" target="_blank">Apply</a> | 2025-07-06 |
@@ -614,10 +644,7 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.glassdoor.sg/overview/working-at-deluxemaid-ei_ie5867331.11,21.htm" target="_blank">DeluxeMaid</a> | Recruitment and Onboarding Specialist | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/5304" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.glassdoor.sg/overview/working-at-hai-sia-seafood-ei_ie2372194.11,26.htm" target="_blank">Hai Sia Seafood Pte Ltd</a> | Remote Administrator (Grocer) | Remote | customer_support | <a href="https://workgo.ai/dashboard/job/5303" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://realynk.com" target="_blank">Realynk Assistants</a> | Healthcare Virtual Assistant for a Clinic in the USA (Philippine Based) | Cagayan de Oro City, Mindanao, Philippines | customer_support | <a href="https://workgo.ai/dashboard/job/5294" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="http://mobileyme.com" target="_blank">MobileyMe</a> | Part-Time Virtual Assistant (Remote, Europe-Based) | Windermere, FL, United States | customer_support | <a href="https://workgo.ai/dashboard/job/5291" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://cyberbackercareers.com" target="_blank">Cyberbacker Inc</a> | Executive Virtual Assistant - Real Estate - Permanent WFH | Ogden, Utah, United States | customer_support | <a href="https://workgo.ai/dashboard/job/5289" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://salesforce.com" target="_blank">Salesforce</a> | Senior Solution Architect - Philippines | Manila, Philippines | success_manager | <a href="https://workgo.ai/dashboard/job/5257" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://salesforce.com" target="_blank">Salesforce</a> | Senior Technical Consultant - Philippines | Manila, Philippines | success_manager | <a href="https://workgo.ai/dashboard/job/5255" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Client Success and Operations Assistant | None | success_manager | <a href="https://workgo.ai/dashboard/job/5249" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.carrotfertility.com" target="_blank">Carrot Fertility</a> | Manager, Customer Success | Anywhere | success_manager | <a href="https://workgo.ai/dashboard/job/5232" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://safetywing.com" target="_blank">SafetyWing</a> | Customer Care Specialist (Asia-Pacific) | Worldwide | customer_support | <a href="https://workgo.ai/dashboard/job/5208" target="_blank">Apply</a> | 2025-07-05 |
@@ -625,15 +652,31 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://remote.co" target="_blank">Company details here</a> | Insurance Specialist - AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5194" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Customer Service Representative Specialist | Remote from Anywhere | customer_support | <a href="https://workgo.ai/dashboard/job/5187" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.revolut.com" target="_blank">Revolut</a> | Phone Support Specialist - Accounts Protection | India | customer_support | <a href="https://workgo.ai/dashboard/job/5150" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.revolut.com" target="_blank">Revolut</a> | Support Specialist (Business) | India | customer_support | <a href="https://workgo.ai/dashboard/job/5153" target="_blank">Apply</a> | 2025-07-05 |
 
 </details>
 
 <details>
-<summary>marketing (81 positions)</summary>
+<summary>marketing (96 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="https://jobscollider.com/companies/smg-service-management-group" target="_blank">SMG - Service Management Group</a> | Go-to-Market Enablement Specialist | Worldwide | digital_marketing | <a href="https://workgo.ai/dashboard/job/6217" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.filmless.com" target="_blank">Filmless</a> | Freelance Video Producer | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6209" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.filmless.com" target="_blank">Filmless</a> | Freelance Script Writer | Worldwide | content_marketing | <a href="https://workgo.ai/dashboard/job/6205" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://happy.co" target="_blank">HappyCo</a> | Marketing Associate, Events & Experiences | Worldwide | digital_marketing | <a href="https://workgo.ai/dashboard/job/6204" target="_blank">Apply</a> | 2025-07-12 |
+| WeMove Europe | Digital Campaigner | Remote within countries where WeMove Europe is registered to work | digital_marketing | <a href="https://workgo.ai/dashboard/job/6193" target="_blank">Apply</a> | 2025-07-12 |
+| Blackthorn io | Product Marketing Manager | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/6150" target="_blank">Apply</a> | 2025-07-12 |
+| unknown | Meta Ads Experte (m/w/d) | Performance Marketing für Luxus Schmuck Firma | Worldwide | digital_marketing | <a href="https://workgo.ai/dashboard/job/6142" target="_blank">Apply</a> | 2025-07-12 |
+| Bitwaffle LLC | Remote User Acquisition Partner | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/6138" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://quabbin.com" target="_blank">Quabbin Wire & Cable Co</a> | Marketing Intern - Part Time, Remote - MA Residents Only | Remote | digital_marketing | <a href="https://workgo.ai/dashboard/job/6129" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://internova.com" target="_blank">Internova Travel Group</a> | Product Marketing Manager | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/6128" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://transparity.com" target="_blank">Transparity Solutions Limited</a> | Campaign Marketing Manager | United Kingdom | digital_marketing | <a href="https://workgo.ai/dashboard/job/6127" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://allianceanimal.com" target="_blank">Alliance Animal Health</a> | Marketing Manager - (Remote) | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/6126" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://brightlocal.com" target="_blank">BrightLocal</a> | HubSpot Marketing Operations Specialist | United Kingdom | digital_marketing | <a href="https://workgo.ai/dashboard/job/6125" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://ouraring.com" target="_blank">Oura</a> | Senior Program Manager, Marketing Operations | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/6124" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers" target="_blank">CrowdStrike</a> | Marketing Execution, Project Manager (Remote) | Saudi Arabia and United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/6123" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://transparity.com" target="_blank">Transparity Solutions Limited</a> | Demand Generation Marketing Manager – 12 Months Maternity Cover | United Kingdom | digital_marketing | <a href="https://workgo.ai/dashboard/job/6122" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://karriar.brightvision.se/cookie-policy" target="_blank">Brightvision</a> | Paid Media Team Lead - Client Project Manager | Worldwide | digital_marketing | <a href="https://workgo.ai/dashboard/job/6115" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Marketing Coordinator | Remote from Anywhere | digital_marketing | <a href="https://workgo.ai/dashboard/job/6110" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://mozilla.org" target="_blank">Mozilla</a> | Martech Lead | Anywhere | digital_marketing | <a href="https://workgo.ai/dashboard/job/6103" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://careers.iubenda.com/cookie-policy" target="_blank">iubenda</a> | Senior Marketing Designer | Worldwide | digital_marketing | <a href="https://workgo.ai/dashboard/job/6087" target="_blank">Apply</a> | 2025-07-11 |
@@ -677,13 +720,12 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://levelup.support" target="_blank">LevelUp</a> | PPC Strategist - Google & Facebook Ads | Anywhere | digital_marketing | <a href="https://workgo.ai/dashboard/job/5650" target="_blank">Apply</a> | 2025-07-09 |
 | <a href="http://tradeify.co" target="_blank">Tradeify</a> | Video Content Creator & Editor | Anywhere | content_marketing | <a href="https://workgo.ai/dashboard/job/5649" target="_blank">Apply</a> | 2025-07-09 |
 | <a href="https://xapo.com" target="_blank">Xapo Bank</a> | Marketing Operations Analyst (Remote - Work from Anywhere) | Anywhere | digital_marketing | <a href="https://workgo.ai/dashboard/job/5648" target="_blank">Apply</a> | 2025-07-09 |
-| <a href="https://www.guru.com" target="_blank">Kytka J</a> | Meta Ads Manager (Facebook & Instagram) | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/5614" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.guru.com" target="_blank">Maria P</a> | Book Marketing Specialist for Self-Published Kindle Books | Greece | digital_marketing | <a href="https://workgo.ai/dashboard/job/5611" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.rockboxfitness.com" target="_blank">McK's Fitness Centers dba RockBox Fitness of the Carolinas</a> | Remote Marketing Assistant – Social Media & Lead Engagement for Fitness Brand | Durham, North Carolina, United States | social_media | <a href="https://workgo.ai/dashboard/job/5605" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://wingassistant.com/virtual-assistant-jobs" target="_blank">Wing Assistant</a> | Digital Marketing Specialist Mid Tier level | Berkeley, California, United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/5603" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Web Optimization & SEO Specialist | Ambler, PA, USA, Eastern Time | seo | <a href="https://workgo.ai/dashboard/job/5596" target="_blank">Apply</a> | 2025-07-08 |
-| <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Content & Brand Strategy - Marketing & Communications Master's Level Internship | Canada | content_marketing | <a href="https://workgo.ai/dashboard/job/5582" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Lead Generation Manager | Remote - Canada | digital_marketing | <a href="https://workgo.ai/dashboard/job/5581" target="_blank">Apply</a> | 2025-07-08 |
+| <a href="https://jobscollider.com/companies/vosyn" target="_blank">Vosyn</a> | Content & Brand Strategy - Marketing & Communications Master's Level Internship | Canada | content_marketing | <a href="https://workgo.ai/dashboard/job/5582" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://www.halcyon.ai" target="_blank">Halcyon</a> | Director, International Marketing | Anywhere | digital_marketing | <a href="https://workgo.ai/dashboard/job/5509" target="_blank">Apply</a> | 2025-07-08 |
 | <a href="https://venturesmarter.com" target="_blank">Venture Smarter</a> | E-commerce Specialist | Los Angeles, California, United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/5472" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | SEO Specialist | Santa Clarita, CA - PDT | seo | <a href="https://workgo.ai/dashboard/job/5464" target="_blank">Apply</a> | 2025-07-07 |
@@ -691,8 +733,8 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://venturesmarter.com" target="_blank">Venture Smarter</a> | Keyword Research Specialist | Los Angeles, California, United States | seo | <a href="https://workgo.ai/dashboard/job/5473" target="_blank">Apply</a> | 2025-07-07 |
 | Endear | Marketing Events Manager | United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/5444" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://jobscollider.com/companies/finfit" target="_blank">FinFit</a> | Strategic Marketing Director | Worldwide | digital_marketing | <a href="https://workgo.ai/dashboard/job/5439" target="_blank">Apply</a> | 2025-07-07 |
-| <a href="https://jobscollider.com/companies/seer-interactive" target="_blank">Seer Interactive</a> | SEO Associate | United States | seo | <a href="https://workgo.ai/dashboard/job/5442" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://jobscollider.com/companies/seer-interactive" target="_blank">Seer Interactive</a> | SEO Manager | Worldwide | seo | <a href="https://workgo.ai/dashboard/job/5443" target="_blank">Apply</a> | 2025-07-07 |
+| <a href="https://jobscollider.com/companies/seer-interactive" target="_blank">Seer Interactive</a> | SEO Associate | United States | seo | <a href="https://workgo.ai/dashboard/job/5442" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://jobscollider.com/companies/hitpay" target="_blank">HitPay</a> | Creative Content Marketer | Worldwide | content_marketing | <a href="https://workgo.ai/dashboard/job/5438" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://jobscollider.com/companies/canva" target="_blank">Canva</a> | Senior SEO Specialist | South Africa | seo | <a href="https://workgo.ai/dashboard/job/5435" target="_blank">Apply</a> | 2025-07-07 |
 | <a href="https://jobscollider.com/companies/canva" target="_blank">Canva</a> | Social Media Manager | Turkey | social_media | <a href="https://workgo.ai/dashboard/job/5432" target="_blank">Apply</a> | 2025-07-07 |
@@ -706,7 +748,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | Virtual Sherpa | Marketing Account Executive (Head/Director Level) | None | other | <a href="https://workgo.ai/dashboard/job/5315" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://hubstafftalent.net" target="_blank">A2 Voice</a> | Appointment Setter (Dental & Medical Outreach) – Remote | Pay Per Appointment | Greensboro, North Carolina, United States | digital_marketing | <a href="https://workgo.ai/dashboard/job/5292" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://taalyb.com" target="_blank">taalyb</a> | Social Media Content Creator (Remote) | Isb, KPK, Pakistan | social_media | <a href="https://workgo.ai/dashboard/job/5290" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://www.perplexity.ai" target="_blank">Perplexity AI</a> | Consumer Marketing Lead | None | digital_marketing | <a href="https://workgo.ai/dashboard/job/5262" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | SEO Specialist | None | seo | <a href="https://workgo.ai/dashboard/job/5246" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Social Media & Design Specialist | None | social_media | <a href="https://workgo.ai/dashboard/job/5243" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.haus.io" target="_blank">Haus</a> | Marketing Measurement Specialist (MMM) | Anywhere | digital_marketing | <a href="https://workgo.ai/dashboard/job/5228" target="_blank">Apply</a> | 2025-07-05 |
@@ -719,10 +760,28 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 </details>
 
 <details>
-<summary>sales (135 positions)</summary>
+<summary>sales (149 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="https://www.guidepointsecurity.com/?ref=skipthedrive" target="_blank">GuidePoint Security</a> | Account Executive (SLED) | Worldwide | account_management | <a href="https://workgo.ai/dashboard/job/6239" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/woodard-and-curran" target="_blank">Woodard & Curran</a> | Senior Client Manager - Food & Beverage | Worldwide | account_management | <a href="https://workgo.ai/dashboard/job/6238" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/freewill" target="_blank">FreeWill</a> | Sales Development Representative | Brazil | account_management | <a href="https://workgo.ai/dashboard/job/6230" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.unity.com" target="_blank">Unity</a> | Senior Client Partner | Germany | account_management | <a href="https://workgo.ai/dashboard/job/6233" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/freewill" target="_blank">FreeWill</a> | Sales Development Representative | United States | business_development | <a href="https://workgo.ai/dashboard/job/6229" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies" target="_blank">Motus</a> | Solutions Specialist | United States | account_management | <a href="https://workgo.ai/dashboard/job/6225" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://jobscollider.com/companies/palo-alto-networks" target="_blank">Palo Alto Networks</a> | Director, Business Value Consultant | United States | business_development | <a href="https://workgo.ai/dashboard/job/6221" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.tfasigns.com" target="_blank">tfasigns</a> | Senior Remote Sales Representative — Signage Solutions (U.S. Market) | chicago, illinois, United States | account_management | <a href="https://workgo.ai/dashboard/job/6199" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://salesforce.com" target="_blank">Salesforce</a> | Solution Engineer, Commerce Cloud | Remote | account_management | <a href="https://workgo.ai/dashboard/job/6186" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://hightouch.com" target="_blank">Hightouch</a> | Mid-Market Account Executive, West | Anywhere | account_management | <a href="https://workgo.ai/dashboard/job/6171" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://contentful.com" target="_blank">Contentful</a> | Senior Sales Engineer | Anywhere | account_management | <a href="https://workgo.ai/dashboard/job/6165" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://nerdy.com" target="_blank">Varsity Tutors</a> | Director of Consumer (B2C) Sales | Anywhere | business_development | <a href="https://workgo.ai/dashboard/job/6161" target="_blank">Apply</a> | 2025-07-12 |
+| triptease | Smb Sales Executive | Remote (U.S.-based) | account_management | <a href="https://workgo.ai/dashboard/job/6147" target="_blank">Apply</a> | 2025-07-12 |
+| unknown | Area Sales Managerin / Regionalleitung (m/w/d)- Süddeutschland | Worldwide | account_management | <a href="https://workgo.ai/dashboard/job/6139" target="_blank">Apply</a> | 2025-07-12 |
+| unknown | Digital Sales & Solutions Manager (m/w/d) | Worldwide | account_management | <a href="https://workgo.ai/dashboard/job/6143" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://mynina.ai" target="_blank">MyNINA</a> | Good Phone Skills? Sell AI from home - Remote work. 2-5 hours per day. | United States | business_development | <a href="https://workgo.ai/dashboard/job/6132" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://kofax.com" target="_blank">kofax</a> | U21-233 - Sr. Sales Engineer | United States | account_management | <a href="https://workgo.ai/dashboard/job/6118" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://hyrise.com" target="_blank">hyrise</a> | Talent Acquisition Sourcer - Internship, Remote, German Speaker | Worldwide | account_management | <a href="https://workgo.ai/dashboard/job/6114" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://www.uipath.com" target="_blank">UiPath</a> | Sales Engineer - Financials | Texas, USA · Remote · Florida, USA · Remote · Arizona, USA · North Carolina, USA · Remote · Georgia, USA · Remote | account_management | <a href="https://workgo.ai/dashboard/job/6105" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.growthbook.io" target="_blank">GrowthBook</a> | Account Executive | None | account_management | <a href="https://workgo.ai/dashboard/job/6104" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://silvustechnologies.com" target="_blank">Silvus Technologies</a> | Associate Territory Director | Anywhere | account_management | <a href="https://workgo.ai/dashboard/job/6102" target="_blank">Apply</a> | 2025-07-11 |
@@ -839,7 +898,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.celonis.com" target="_blank">Celonis</a> | Client Partner / Strategic Account Executive - Chemical | Munich, Germany | account_management | <a href="https://workgo.ai/dashboard/job/5338" target="_blank">Apply</a> | 2025-07-06 |
 | <a href="https://www.simplyhired.com" target="_blank">APC Logistics Group</a> | Recruiter – General Labor & Warehouse Staffing | Remote | account_management | <a href="https://workgo.ai/dashboard/job/5333" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.yipitdata.com" target="_blank">YipitData</a> | Junior Sales Development Representative (SDR) | US Remote | business_development | <a href="https://workgo.ai/dashboard/job/5326" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://salesforce.com" target="_blank">Salesforce</a> | Account Partner (Sales) - Philippines | Manila, Philippines | account_management | <a href="https://workgo.ai/dashboard/job/5258" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Sales Specialist – SEO, PPC & Web Design | None | business_development | <a href="https://workgo.ai/dashboard/job/5250" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://chainstack.com" target="_blank">Chainstack 🛠️💙</a> | Account Executive | Anywhere in the World – Remote | account_management | <a href="https://workgo.ai/dashboard/job/5239" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://people.ai" target="_blank">People.ai</a> | Sr. Engagement Manager | Anywhere | account_management | <a href="https://workgo.ai/dashboard/job/5226" target="_blank">Apply</a> | 2025-07-05 |
@@ -855,20 +913,42 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.fandom.com" target="_blank">Fandom</a> | Senior Analyst, Sales Research & Insights | United States | account_management | <a href="https://workgo.ai/dashboard/job/5137" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/version-1" target="_blank">Version 1</a> | Pre-Sales Service Architect | United Kingdom | account_management | <a href="https://workgo.ai/dashboard/job/5131" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobscollider.com/companies/ideals" target="_blank">iDeals</a> | Customer Success Sales Executive | Germany | account_management | <a href="https://workgo.ai/dashboard/job/5127" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://jobscollider.com/companies/cye" target="_blank">CYE</a> | Account Executive | United States | account_management | <a href="https://workgo.ai/dashboard/job/5123" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://jobscollider.com/companies/jeeves" target="_blank">Jeeves</a> | Senior Account Executive | United States | account_management | <a href="https://workgo.ai/dashboard/job/5108" target="_blank">Apply</a> | 2025-07-04 |
-| <a href="https://jobscollider.com/companies/guideline" target="_blank">Guideline</a> | Account Executive - Core | United States | account_management | <a href="https://workgo.ai/dashboard/job/5101" target="_blank">Apply</a> | 2025-07-04 |
 
 </details>
 
 <details>
-<summary>other (172 positions)</summary>
+<summary>other (196 positions)</summary>
 
 | Company | Job Title | Location | Sub-Category | Link | Posted Date |
 | ------- | --------- | -------- | ------------ | ---- | ----------- |
+| <a href="https://jobscollider.com/jobs/customer-success-manager-at-hazel-health-541248" target="_blank">Hazel Health</a> | Pediatric Mental Health Therapist | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6237" target="_blank">Apply</a> | 2025-07-12 |
+| BH Properties | Real Estate Acquisitions Analyst - Affordable Housing | Remote - Worldwide | other | <a href="https://workgo.ai/dashboard/job/6234" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://hirefrontier.com" target="_blank">Fresh Prints</a> | Operations Associate | Philippines | other | <a href="https://workgo.ai/dashboard/job/6235" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.filmless.com" target="_blank">Filmless</a> | Freelance Video Editor | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6210" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.filmless.com" target="_blank">Filmless</a> | Freelance Voice Over Artist | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6208" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.filmless.com" target="_blank">Filmless</a> | Freelance Cinematographer | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6207" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://sproutsocial.com" target="_blank">Sprout Social</a> | Operations Lead | United States | other | <a href="https://workgo.ai/dashboard/job/6215" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.guru.com" target="_blank">Amie H</a> | Data Entry | United States | other | <a href="https://workgo.ai/dashboard/job/6196" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.virtualvocations.com" target="_blank">Virtual Vocations</a> | Project Accounting Assistant | Remote | other | <a href="https://workgo.ai/dashboard/job/6191" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.abhyaz.com" target="_blank">Abhyaz</a> | HR Recruiter Intern | Open to candidates from all countries. | other | <a href="https://workgo.ai/dashboard/job/6188" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.hubspot.com" target="_blank">HubSpot</a> | Vice President, Product Privacy & AI Legal | Remote | other | <a href="https://workgo.ai/dashboard/job/6182" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.thoughtful.ai" target="_blank">Thoughtful AI</a> | People Operations Specialist | None | other | <a href="https://workgo.ai/dashboard/job/6178" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.invisible.co" target="_blank">Invisible</a> | People Operations Coordinator | Remote | other | <a href="https://workgo.ai/dashboard/job/6177" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.hubspot.com" target="_blank">HubSpot</a> | Finance Transformation Project Manager | None | other | <a href="https://workgo.ai/dashboard/job/6173" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="http://www.welocalize.com" target="_blank">Welocalize</a> | Mongolian Linguistic Specialist - Patent Translation | None | other | <a href="https://workgo.ai/dashboard/job/6175" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://perscholas.org" target="_blank">Per Scholas</a> | Instructional Assistant (Data Engineer) | Anywhere | other | <a href="https://workgo.ai/dashboard/job/6168" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://crowdgen.com" target="_blank">CrowdGen by Appen</a> | Turkish > Standard Dutch Translator | Anywhere | other | <a href="https://workgo.ai/dashboard/job/6164" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://crowdgen.com" target="_blank">CrowdGen by Appen</a> | Lao-English Freelance Translator – Flexible & Remote | Anywhere | other | <a href="https://workgo.ai/dashboard/job/6162" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.vtex.com" target="_blank">Vtex</a> | Controllership Analyst | United States | other | <a href="https://workgo.ai/dashboard/job/6154" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://www.nmi.com/eu/careers/company" target="_blank">NMI</a> | Legal Operations Associate | United States | other | <a href="https://workgo.ai/dashboard/job/6151" target="_blank">Apply</a> | 2025-07-12 |
+| Passes | It & Office Systems Administrator | Hollywood, CA | other | <a href="https://workgo.ai/dashboard/job/6146" target="_blank">Apply</a> | 2025-07-12 |
+| <a href="https://democrats.org" target="_blank">The Democratic Party</a> | Fall 2025 DNC Technology Internship | Remote, US | other | <a href="https://workgo.ai/dashboard/job/6145" target="_blank">Apply</a> | 2025-07-12 |
+| unknown | Profesor/a Particular de Informática - Fines de semana | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6140" target="_blank">Apply</a> | 2025-07-12 |
+| unknown | IT-Supporter (m/w/d) - 100% Remote | Worldwide | other | <a href="https://workgo.ai/dashboard/job/6141" target="_blank">Apply</a> | 2025-07-12 |
+| Denali | Remote Or Office Data Entry | Atlanta, GA | other | <a href="https://workgo.ai/dashboard/job/6135" target="_blank">Apply</a> | 2025-07-12 |
 | <a href="https://www.glassdoor.sg/index.htm" target="_blank">Glassdoor</a> | Job is OOO | None | other | <a href="https://workgo.ai/dashboard/job/6113" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Policy and Permitting Coordinator | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/6111" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | Art History Specialist – AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/6109" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Policy and Permitting Coordinator | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/6111" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://stripe.com" target="_blank">Stripe</a> | Legal Technology Partner | US-Remote, US-SF, US-SEA, US-NYC | other | <a href="https://workgo.ai/dashboard/job/6112" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://mozilla.org" target="_blank">Mozilla</a> | Senior HRIS Application Engineer | Anywhere | other | <a href="https://workgo.ai/dashboard/job/6100" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://himalayas.app/companies/mission-inbox" target="_blank">Mission Inbox</a> | Executive Assistant | Open to candidates from all countries. | other | <a href="https://workgo.ai/dashboard/job/6089" target="_blank">Apply</a> | 2025-07-11 |
@@ -884,8 +964,8 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://jobscollider.com/companies/terrascend" target="_blank">TerrAscend</a> | Pharmacist | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5981" target="_blank">Apply</a> | 2025-07-11 |
 | Ethos | Finance and Strategy, Associate, Senior Associate | United States | other | <a href="https://workgo.ai/dashboard/job/5976" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://jobscollider.com/companies/vox-media" target="_blank">Vox Media</a> | Senior Reviewer, TVs & Audio | United States | other | <a href="https://workgo.ai/dashboard/job/5973" target="_blank">Apply</a> | 2025-07-11 |
-| <a href="https://jobscollider.com/companies/f-and-g" target="_blank">F&G</a> | Senior Investment Accountant | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5969" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://jobscollider.com/companies/f-and-g" target="_blank">F&G</a> | Manager, Investment Risk | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5968" target="_blank">Apply</a> | 2025-07-11 |
+| <a href="https://jobscollider.com/companies/f-and-g" target="_blank">F&G</a> | Senior Investment Accountant | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5969" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Senior Bookkeeper | None | other | <a href="https://workgo.ai/dashboard/job/5957" target="_blank">Apply</a> | 2025-07-11 |
 | <a href="https://liftoff.io" target="_blank">Liftoff</a> | Career Opportunities & Jobs | None | other | <a href="https://workgo.ai/dashboard/job/5954" target="_blank">Apply</a> | 2025-07-10 |
 | unknown | Clinical Operations Associate, Quality | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5949" target="_blank">Apply</a> | 2025-07-10 |
@@ -917,8 +997,8 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | West Hills Village Senior Residence | Med Tech (NOC Shift | Part Time) | United States, Portland | other | <a href="https://workgo.ai/dashboard/job/5809" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://www.culthealth.com" target="_blank">CultHealth</a> | TECTONIC - Freelance Account (Mid-Level, AS, SAE, Acct Dir) | Anywhere | other | <a href="https://workgo.ai/dashboard/job/5797" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://www.revolut.com" target="_blank">Revolut</a> | Director of Risk - Western Europe Bank | France | other | <a href="https://workgo.ai/dashboard/job/5798" target="_blank">Apply</a> | 2025-07-10 |
-| <a href="https://remote.co" target="_blank">Company details here</a> | Anthropology Specialist | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5771" target="_blank">Apply</a> | 2025-07-10 |
 | <a href="https://remote.co" target="_blank">Company details here</a> | English Language Specialist – AI Trainer | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5768" target="_blank">Apply</a> | 2025-07-10 |
+| <a href="https://remote.co" target="_blank">Company details here</a> | Anthropology Specialist | Remote from Anywhere | other | <a href="https://workgo.ai/dashboard/job/5771" target="_blank">Apply</a> | 2025-07-10 |
 | unknown | IngenieurIin Elektrotechnik (m/w/d) Primärplanung im Hochspannungsbereich | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5758" target="_blank">Apply</a> | 2025-07-09 |
 | unknown | FACHARZT / FACHÄRZTIN für GYNÄKOLOGIE ambulant (w/m/d/x) | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5757" target="_blank">Apply</a> | 2025-07-09 |
 | unknown | Se Buscan Maestros de Español para Clases Virtuales - Trabaja desde Casa | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5756" target="_blank">Apply</a> | 2025-07-09 |
@@ -1001,7 +1081,6 @@ This job repository provides daily updates of the latest tech jobs from 2025-07-
 | <a href="https://www.crossover.com" target="_blank">Crossover</a> | The World's Best Ed Tech Jobs | Remote and in-person roles in the USA | other | <a href="https://workgo.ai/dashboard/job/5297" target="_blank">Apply</a> | 2025-07-05 |
 | unknown | 未知职位 | None | other | <a href="https://workgo.ai/dashboard/job/5296" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="http://oakreinvestment.com" target="_blank">Oak Real Estate Investment</a> | Accountant | Dallas, Texas, United States | other | <a href="https://workgo.ai/dashboard/job/5293" target="_blank">Apply</a> | 2025-07-05 |
-| <a href="https://elevenlabs.io" target="_blank">ElevenLabs</a> | Accounts Receivable Specialist | Remote | other | <a href="https://workgo.ai/dashboard/job/5252" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.bruntworkcareers.co" target="_blank">BruntWork</a> | Administrative Assistant - Property Management Support | None | other | <a href="https://workgo.ai/dashboard/job/5245" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://jobgether.com" target="_blank">Jobgether</a> | Remote Jobs from Anywhere: Fully Remote & Location Flexible | Anywhere | other | <a href="https://workgo.ai/dashboard/job/5241" target="_blank">Apply</a> | 2025-07-05 |
 | <a href="https://www.who.int" target="_blank">World Health Organization</a> | Consultant - Innovation | Worldwide | other | <a href="https://workgo.ai/dashboard/job/5237" target="_blank">Apply</a> | 2025-07-05 |
